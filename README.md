@@ -24,7 +24,7 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 Print the predicted output.
 
 ## Program:
-```
+```python
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
@@ -41,7 +41,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ## Output:
 
 ### Insert your output
-![Screenshot 2024-12-01 160113](https://github.com/user-attachments/assets/0ba678b9-cd2d-465e-b95b-d392e8c469a5)
+
+![Screenshot 2024-12-03 140122](https://github.com/user-attachments/assets/e46b421d-4ac8-4201-833d-1a2631822f49)
 
 
 ## Result
